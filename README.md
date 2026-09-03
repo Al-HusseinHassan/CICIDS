@@ -200,37 +200,6 @@ This allows the system to move from simply detecting an intrusion to understandi
 
 ---
 
-## Project Structure
-
-```text
-CICIDS2017/
-│
-├── data/
-│   └── README.md
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   └── 03_machine_learning.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── visualization.py
-│   └── modeling.py
-│
-├── results/
-│   ├── figures/
-│   └── metrics/
-│
-├── requirements.txt
-│
-└── README.md
-```
-
-> Dataset files are not included in this repository because of their size.
-
----
-
 ## Key Findings
 
 During the analysis, several important characteristics of the dataset were identified:
@@ -299,7 +268,7 @@ Through this project, I practiced:
 
 ## Author
 
-**Al-Hussein Hassan**
+**Al-Hussein Hassan Hendawy**
 
 Computer Science & Artificial Intelligence Student
 
@@ -313,7 +282,7 @@ Interested in:
 
 ---
 
-## Dataset Reference
+## 📜 Dataset Reference
 
 The project is based on the **CICIDS2017** dataset developed by the Canadian Institute for Cybersecurity.
-Linke: 
+You can Download it from the official website <a href="https://www.unb.ca/cic/datasets/ids-2017.html">here</a>
